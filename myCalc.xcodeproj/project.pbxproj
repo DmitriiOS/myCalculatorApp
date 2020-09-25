@@ -60,8 +60,8 @@
 				63C0C5612514A3D500D3141A /* SceneDelegate.swift */,
 				63C0C5632514A3D500D3141A /* ViewController.swift */,
 				63C0C5652514A3D500D3141A /* Main.storyboard */,
-				63C0C5682514A3D600D3141A /* Assets.xcassets */,
 				63C0C56A2514A3D600D3141A /* LaunchScreen.storyboard */,
+				63C0C5682514A3D600D3141A /* Assets.xcassets */,
 				63C0C56D2514A3D600D3141A /* Info.plist */,
 			);
 			path = myCalc;
@@ -294,7 +294,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.DmitriOS.myCalc;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -312,7 +312,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.DmitriOS.myCalc;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
